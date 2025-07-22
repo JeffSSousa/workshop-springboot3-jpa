@@ -14,7 +14,6 @@ Este é um projeto de workshop de Spring Boot 3 e PostgreSQL, desenvolvido para 
 
 - ✅ Persistência via JPA/Hibernate e configuração com arquivos pom.xml e application.properties
 
-- ✅ Testes automatizados com Spring Boot Test
 
 
 ## 🚀 Como Executar
